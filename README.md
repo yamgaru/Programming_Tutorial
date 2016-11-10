@@ -7,3 +7,5 @@ Proper order of exercises:
 * Recursion
 * Lists and Arrays
 * Strings
+
+For further instructoins please visit the [wiki](https://github.com/NaNaDi/Programming_Tutorial.wiki.git)
