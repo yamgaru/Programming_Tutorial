@@ -2,10 +2,7 @@
 public class DatabaseDriver {
 	
 	//todo: test your methods from the DatabaseHelper-class here and print the results
-	
-	public static void main(String[] args) {
-		
-
-	}
+	//note: comment out the whole main-Method of Example.java. Otherwise Eclipse will not compile
+	//as there are two main methods
 
 }
