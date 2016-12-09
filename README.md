@@ -6,6 +6,11 @@ Proper order of exercises:
 * Methods
 * Recursion
 * Lists and Arrays
-* Strings
+* Strings 
+* OOP1 
+* OOP2 
+* Exceptions 
+* Enums 
+* Generics
 
 For further instructoins please visit the [wiki](https://github.com/NaNaDi/Programming_Tutorial/wiki)
