@@ -12,6 +12,7 @@ Proper order of exercises:
 * Exceptions 
 * Enums 
 * Generics  
-* Databases
+* Databases 
+* HelloJSP
 
 For further instructoins please visit the [wiki](https://github.com/NaNaDi/Programming_Tutorial/wiki)
