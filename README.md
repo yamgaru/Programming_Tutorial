@@ -13,6 +13,6 @@ Proper order of exercises:
 * Enums 
 * Generics  
 * Databases 
-* HelloJSP
+* InputOutput
 
 For further instructoins please visit the [wiki](https://github.com/NaNaDi/Programming_Tutorial/wiki)
