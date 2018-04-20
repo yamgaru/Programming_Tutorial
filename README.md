@@ -5,8 +5,8 @@ Proper order of exercises:
 * Structures
 * Methods
 * Recursion
+* Strings
 * Lists and Arrays
-* Strings 
 * OOP1 
 * OOP2 
 * Exceptions 
@@ -15,5 +15,6 @@ Proper order of exercises:
 * Databases 
 * InputOutput 
 * ChainedLists
+* BisonHacking
 
 For further instructoins please visit the [wiki](https://github.com/NaNaDi/Programming_Tutorial/wiki)
