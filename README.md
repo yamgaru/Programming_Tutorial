@@ -17,4 +17,4 @@ Proper order of exercises:
 * Databases 
 * BisonHacking
 
-For further instructoins please visit the [wiki](https://github.com/NaNaDi/Programming_Tutorial/wiki)
+For further instructions please visit the [wiki](https://github.com/NaNaDi/Programming_Tutorial/wiki)
